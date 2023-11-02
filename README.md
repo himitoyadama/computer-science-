@@ -1,5 +1,8 @@
 # WPF-reference
 
+.NET WPF アプリでのユーザーのサインインのために顧客テナントを準備する
+https://learn.microsoft.com/ja-jp/entra/external-id/customers/tutorial-desktop-wpf-dotnet-sign-in-prepare-tenant
+
 WPFでMVVMなログイン画面を作成する
 https://qiita.com/WATARI_QIITA/items/8c0352af7e22a876e23e
 
