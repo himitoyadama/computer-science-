@@ -1,4 +1,7 @@
 # laragon
+Laragonの基本的な使い方からよく使う機能まで使い方を解説
+https://www.trade-tech-note.work/how-to-use-laragon/?amp=1
+
 【エックスサーバー】WebサイトをSSL化する手順（無料独自SSL）
 https://www.youtube.com/watch?v=03gBUz2xkcY
 
