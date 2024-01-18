@@ -1,4 +1,7 @@
 # laragon
+How To Fix Can’t Change WordPress Website Address – Greyed Out URLs
+https://wpcompendium.org/wordpress-management/wordpress-troubleshooting/how-to-fix-cant-change-wordpress-website-address-greyed-out-urls/
+
 Laragon Crash Course - Local Dev Environment With SSL
 https://www.youtube.com/watch?v=sryNtS0ccj0
 
