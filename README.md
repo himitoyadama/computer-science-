@@ -1,4 +1,7 @@
 # laragon
+【エックスサーバー】WebサイトをSSL化する手順（無料独自SSL）
+https://www.youtube.com/watch?v=03gBUz2xkcY
+
 How To Fix Can’t Change WordPress Website Address – Greyed Out URLs
 https://wpcompendium.org/wordpress-management/wordpress-troubleshooting/how-to-fix-cant-change-wordpress-website-address-greyed-out-urls/
 
