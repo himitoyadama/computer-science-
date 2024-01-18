@@ -1,4 +1,7 @@
 # laragon
+Laragon Crash Course - Local Dev Environment With SSL
+https://www.youtube.com/watch?v=sryNtS0ccj0
+
 Laragon で PHP による動的サイトの開発環境を構築
 https://blog.isonishi.com/posts/laragon-mailhog-xdebug#laragon-%E3%81%AE%E8%A8%AD%E5%AE%9A
 
