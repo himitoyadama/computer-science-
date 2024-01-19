@@ -1,4 +1,7 @@
 # laragon
+【PHP】PHPでRSA暗号のカギ生成,暗号化,復号を作ってみた
+https://qiita.com/atsuPueri/items/3d796c093fefcb564aa7
+
 Laragonの基本的な使い方からよく使う機能まで使い方を解説
 https://www.trade-tech-note.work/how-to-use-laragon/?amp=1
 
