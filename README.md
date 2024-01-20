@@ -1,4 +1,7 @@
 # laragon
+Install Laragon, PhpMyAdmin + Wordpress + SSL in Windows 10
+https://m.youtube.com/watch?v=Jk1hIHFXIdQ
+
 【PHP】PHPでRSA暗号のカギ生成,暗号化,復号を作ってみた
 https://qiita.com/atsuPueri/items/3d796c093fefcb564aa7
 
