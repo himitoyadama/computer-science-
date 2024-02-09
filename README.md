@@ -1,4 +1,7 @@
 # virtualbox
+How to Install macOS Big Sur in VirtualBox on Windows 11/10?
+https://gearupwindows.com/how-to-install-macos-big-sur-in-virtualbox-on-windows-11-10/
+
 MacOS 11 Big SurのVMware仮想マシンをWindows上に構築する方法とは
 https://www.youtube.com/watch?v=9pP-yDSUxsc
 
