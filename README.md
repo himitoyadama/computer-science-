@@ -1,4 +1,7 @@
 # virtualbox
+【悪用厳禁】ハッキングの手順全公開
+https://m.youtube.com/watch?v=WXMarwoDt0g
+
 How to Install macOS Big Sur in VirtualBox on Windows 11/10?
 https://gearupwindows.com/how-to-install-macos-big-sur-in-virtualbox-on-windows-11-10/
 
