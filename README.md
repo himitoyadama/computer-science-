@@ -1,4 +1,7 @@
 # virtualbox
+About the GNU Operating System
+https://www.gnu.org/gnu/gnu.html
+
 【悪用厳禁】ハッキングの手順全公開
 https://m.youtube.com/watch?v=WXMarwoDt0g
 
