@@ -1,4 +1,7 @@
 # virtualbox
+How to Install Parrot OS on VirtualBox on Windows 10 | Beginners Guide
+https://www.youtube.com/watch?v=6ICeYQvNmJ0
+
 About the GNU Operating System
 https://www.gnu.org/gnu/gnu.html
 
