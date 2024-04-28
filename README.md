@@ -1,4 +1,8 @@
 # computer science 
+
+How to Install Kali Linux in VirtualBox (2023.4 Edition)
+https://m.youtube.com/watch?v=_v7mKQ6JS4A
+
 Introduction to Computer Science (CS 101) for Beginners - Free Course | Treehouse
 https://m.youtube.com/watch?v=CNFK86hJRfE
 
