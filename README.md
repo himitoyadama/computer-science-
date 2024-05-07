@@ -1,4 +1,6 @@
 # computer science 
+ParrotOS - Download and Installation - Step by Step - Parrot OS #linux
+https://m.youtube.com/watch?v=LV9kby22d8M
 
 How to Install Kali Linux in VirtualBox (2023.4 Edition)
 https://m.youtube.com/watch?v=_v7mKQ6JS4A
